@@ -1,0 +1,5 @@
+﻿  01_08_01.cpp
+LINK : warning LNK4076: invalid incremental status file 'D:\Struct\Struct\ConsoleApplication1\Debug\Oxy.ilk' (which will be deleted); linking nonincrementally
+01_08_01.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Oxy.vcxproj -> D:\Struct\Struct\ConsoleApplication1\Debug\Oxy.exe
+  Oxy.vcxproj -> D:\Struct\Struct\ConsoleApplication1\Debug\Oxy.pdb (Full PDB)
